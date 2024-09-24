@@ -1,8 +1,10 @@
 {
     "employees":[
-        "id": "1",
-        "name": "John Doe",
-        "email": "johndoe@gmail.com",
-        "position": "manager"
+        {
+            "id": "1",
+            "name": "John Doe",
+            "email": "johndoe@gmail.com",
+            "position": "manager"
+        }
     ]
 }
